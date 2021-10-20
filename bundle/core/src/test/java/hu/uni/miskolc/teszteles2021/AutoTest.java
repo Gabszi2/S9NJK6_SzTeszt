@@ -9,6 +9,8 @@ import org.junit.Test;
 
 import java.time.LocalDate;
 
+import static org.junit.Assert.assertEquals;
+
 public class AutoTest{
 
     Auto auto;
@@ -87,5 +89,16 @@ public class AutoTest{
     public void testKesoiGyartasiido() throws GyartasiIdoNemMegfelelo {
         String gyartasiido="2222-04-17";
         auto.setGyartasiIdo(LocalDate.parse(gyartasiido));
+    }
+    @Test
+    public void testSzinkodSetter(){
+        String szinkod="#FFFFFF";
+        auto.setSzinHex(szinkod);
+        assertEquals(szinkod,auto.szinHex);
+    }
+    @Test
+    public void testSzinkodGetter(){
+        auto.szinHex="#FFFFFF";
+        assertEquals(auto.szinHex,auto.getSzinHex());
     }
 }

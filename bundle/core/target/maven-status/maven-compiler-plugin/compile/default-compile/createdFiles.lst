@@ -1,6 +1,6 @@
-hu\uni\miskolc\teszteles2021\Valto.class
-hu\uni\miskolc\teszteles2021\Kivitel.class
-hu\uni\miskolc\teszteles2021\Uzemanyag.class
+hu\uni\miskolc\teszteles\core\enums\Uzemanyag.class
+hu\uni\miskolc\teszteles\core\enums\Valto.class
+hu\uni\miskolc\teszteles\core\enums\Kivitel.class
 hu\uni\miskolc\teszteles2021\Auto.class
 hu\uni\miskolc\teszteles2021\exception\RendszamNemMegfelelo.class
 hu\uni\miskolc\teszteles2021\HanggalRendelkezo.class
