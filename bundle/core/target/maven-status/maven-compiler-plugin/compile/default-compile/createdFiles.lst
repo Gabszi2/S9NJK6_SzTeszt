@@ -1,7 +1,8 @@
+hu\uni\miskolc\teszteles\core\HanggalRendelkezo.class
 hu\uni\miskolc\teszteles\core\enums\Uzemanyag.class
 hu\uni\miskolc\teszteles\core\enums\Valto.class
 hu\uni\miskolc\teszteles\core\enums\Kivitel.class
-hu\uni\miskolc\teszteles2021\Auto.class
-hu\uni\miskolc\teszteles2021\exception\RendszamNemMegfelelo.class
-hu\uni\miskolc\teszteles2021\HanggalRendelkezo.class
-hu\uni\miskolc\teszteles2021\exception\GyartasiIdoNemMegfelelo.class
+hu\uni\miskolc\teszteles\core\exceptions\GyartasiIdoNemMegfelelo.class
+hu\uni\miskolc\teszteles\core\Auto.class
+hu\uni\miskolc\teszteles\core\exceptions\AjtokSzamaNemMegfelelo.class
+hu\uni\miskolc\teszteles\core\exceptions\RendszamNemMegfelelo.class

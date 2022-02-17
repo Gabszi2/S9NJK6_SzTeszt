@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: hu.uni.miskolc.teszteles2021.AutoRendszamTest
--------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.182 sec

@@ -1,7 +1,8 @@
-C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles2021\exception\AjtokSzamaNemMegfelelo.java
-C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles2021\Valto.java
-C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles2021\Auto.java
-C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles2021\HanggalRendelkezo.java
-C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles2021\Uzemanyag.java
-C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles2021\exception\RendszamNemMegfelelo.java
-C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles2021\Kivitel.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\enums\Kivitel.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\enums\Valto.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\enums\Uzemanyag.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\exceptions\AjtokSzamaNemMegfelelo.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\HanggalRendelkezo.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\Auto.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\exceptions\RendszamNemMegfelelo.java
+C:\Users\Gabsz\Documents\GitHub\S9NJK6_SzTeszt\bundle\core\src\main\java\hu\uni\miskolc\teszteles\core\exceptions\GyartasiIdoNemMegfelelo.java
